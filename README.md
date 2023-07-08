@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nextjs, flutter, typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mihir99-mk?tab=repositories](https://github.com/Mihir99-mk?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Mihir99-mk?tab=repositories](https://github.com/Mihir99-mk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
